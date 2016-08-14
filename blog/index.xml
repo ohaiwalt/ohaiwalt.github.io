@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ohaiwalt</title>
+    <link>http://ohaiwalt.com/blog/</link>
+    <description>Recent content in Blogs on ohaiwalt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Aug 2016 23:51:07 -0400</lastBuildDate>
+    <atom:link href="http://ohaiwalt.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world</title>
+      <link>http://ohaiwalt.com/blog/hello-world/</link>
+      <pubDate>Sat, 13 Aug 2016 23:51:07 -0400</pubDate>
+      
+      <guid>http://ohaiwalt.com/blog/hello-world/</guid>
+      <description>&lt;p&gt;I think this is probably iteration fourteen of attempting write on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s give this one a go then, shall we?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ohaiwalt</title>
+    <link>http://ohaiwalt.com/</link>
+    <description>Recent content on ohaiwalt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Aug 2016 23:53:24 -0400</lastBuildDate>
+    <atom:link href="http://ohaiwalt.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>resume</title>
+      <link>http://ohaiwalt.com/resume/</link>
+      <pubDate>Sat, 13 Aug 2016 23:53:24 -0400</pubDate>
+      
+      <guid>http://ohaiwalt.com/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>http://ohaiwalt.com/blog/hello-world/</link>
+      <pubDate>Sat, 13 Aug 2016 23:51:07 -0400</pubDate>
+      
+      <guid>http://ohaiwalt.com/blog/hello-world/</guid>
+      <description>&lt;p&gt;I think this is probably iteration fourteen of attempting write on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s give this one a go then, shall we?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://ohaiwalt.com/about/</link>
+      <pubDate>Sat, 13 Aug 2016 23:35:00 -0400</pubDate>
+      
+      <guid>http://ohaiwalt.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
