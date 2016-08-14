@@ -82,35 +82,6 @@
             </ul>
         </section>
 
-    <!-- This if statement only applies if someone goes to the /categories url -->
-    <!-- Otherwise this section is shown for all other links -->
-    {{ if ne ($.Scratch.Get "showCategories") false }}
-    <!-- Categories List -->
-        <section id="categories">
-            <ul class="posts">
-                <header>
-                    <h3><a href="/categories/">Categories</a></h3>
-                </header>
-
-                {{ if .Site.Params.categoriesByCount }}
-                    {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.ByCount }}
-                {{ else }}
-                    {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.Alphabetical }}
-                {{ end }}
-
-                {{ range $key, $value := $.Scratch.Get "categories" }}
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
-                                <span style="float:right;">{{ $value.Count }}</span>
-                            </header>
-                        </article>
-                    </li>
-                {{ end }}
-            </ul>
-        </section>
-    {{ end }}
 
     <!-- About -->
         {{ with .Site.Params.intro.about }}
@@ -136,7 +107,7 @@
                 {{ end }}
             </ul>
 
-            <p class="copyright">&copy; {{ .Site.Title }}. Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>. Ported by <a href="//github.com/jpescador" target="_blank">Julio Pescador</a>. Powered by <a href="//gohugo.io" target="_blank">Hugo</a></p>
+            <p class="copyright">&copy; {{ .Site.Title }}.</p>
         </section>
 
 </section>
