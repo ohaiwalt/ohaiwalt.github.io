@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ohaiwalt.com/blog/devember/</loc>
+    <lastmod>2017-12-02T23:51:07-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ohaiwalt.com/blog/on-committing-entirely/</loc>
     <lastmod>2016-09-11T22:08:26-04:00</lastmod>
   </url>
@@ -18,12 +23,8 @@
   </url>
   
   <url>
-    <loc>http://ohaiwalt.com/blog/devember/</loc>
-  </url>
-  
-  <url>
     <loc>http://ohaiwalt.com/blog/</loc>
-    <lastmod>2016-09-11T22:08:26-04:00</lastmod>
+    <lastmod>2017-12-02T23:51:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,7 +40,7 @@
   
   <url>
     <loc>http://ohaiwalt.com/</loc>
-    <lastmod>2016-09-11T22:08:26-04:00</lastmod>
+    <lastmod>2017-12-02T23:51:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   

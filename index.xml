@@ -6,10 +6,22 @@
     <description>Recent content on ohaiwalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Sep 2016 22:08:26 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2017 23:51:07 -0400</lastBuildDate>
     
 	<atom:link href="http://ohaiwalt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>devember</title>
+      <link>http://ohaiwalt.com/blog/devember/</link>
+      <pubDate>Sat, 02 Dec 2017 23:51:07 -0400</pubDate>
+      
+      <guid>http://ohaiwalt.com/blog/devember/</guid>
+      <description>A friend introduced me to Devember yesterday, and I&amp;rsquo;ve decided to hop on. Devember is a personal goal of spending an hour a day coding for the month of December, with public accountability.
+I&amp;rsquo;ll have a public record on GitHub with some code samples as I create them as well as a daily log of my efforts.
+The proclamation:
+I, Matthew Walter, will participate to the next Devember. My Devember will be working with Python and Go.</description>
+    </item>
     
     <item>
       <title>on committing entirely</title>
@@ -40,18 +52,6 @@ Let&amp;rsquo;s give this one a go then, shall we?</description>
       <description>About Me I&amp;rsquo;m Matthew Walter, a site reliability engineer working in NYC. Right now I&amp;rsquo;m at Flatiron Health in an effort to improve cancer treatment.
 Previously working on making government beautiful with SeamlessDocs.
 Father, technologist, gamer. Lives on a sailboat, former Navy sailor.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://ohaiwalt.com/blog/devember/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ohaiwalt.com/blog/devember/</guid>
-      <description>A friend introduced me to Devember yesterday, and I&amp;rsquo;ve decided to hop on. Devember is a personal goal of spending an hour a day coding for the month of December, with public accountability.
-I&amp;rsquo;ll have a public record on GitHub with some code samples as I create them as well as a daily log of my efforts.
-The proclamation:
-I, Matthew Walter, will participate to the next Devember. My Devember will be working with Python and Go.</description>
     </item>
     
   </channel>
