@@ -42,5 +42,17 @@ Previously working on making government beautiful with SeamlessDocs.
 Father, technologist, gamer. Lives on a sailboat, former Navy sailor.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://ohaiwalt.com/blog/devember/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ohaiwalt.com/blog/devember/</guid>
+      <description>A friend introduced me to Devember yesterday, and I&amp;rsquo;ve decided to hop on. Devember is a personal goal of spending an hour a day coding for the month of December, with public accountability.
+I&amp;rsquo;ll have a public record on GitHub with some code samples as I create them as well as a daily log of my efforts.
+The proclamation:
+I, Matthew Walter, will participate to the next Devember. My Devember will be working with Python and Go.</description>
+    </item>
+    
   </channel>
 </rss>
