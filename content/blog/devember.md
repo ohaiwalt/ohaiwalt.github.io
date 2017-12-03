@@ -1,6 +1,8 @@
 +++
 author = "Matthew Walter"
+date = "2017-12-02T23:51:07-04:00"
 categories = []
+title = "devember"
 description = ""
 linktitle = ""
 featured = ""
