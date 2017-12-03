@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://ohaiwalt.com/</loc>
-    <lastmod>2016-09-11T22:08:26-04:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://ohaiwalt.com/blog/on-committing-entirely/</loc>
@@ -19,6 +15,28 @@
   <url>
     <loc>http://ohaiwalt.com/about/</loc>
     <lastmod>2016-08-13T23:35:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ohaiwalt.com/blog/</loc>
+    <lastmod>2016-09-11T22:08:26-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ohaiwalt.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ohaiwalt.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ohaiwalt.com/</loc>
+    <lastmod>2016-09-11T22:08:26-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
