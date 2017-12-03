@@ -13,6 +13,8 @@ title = "about"
 
 # About Me
 
-I'm Matthew Walter, a site reliability engineer working in NYC. Right now I'm working on making government beautiful with [SeamlessDocs](http://www.seamlessdocs.com).
+I'm Matthew Walter, a site reliability engineer working in NYC. Right now I'm at [Flatiron Health](https://flatiron.com) in an effort to improve cancer treatment.
+
+Previously working on making government beautiful with [SeamlessDocs](http://www.seamlessdocs.com).
 
 Father, technologist, gamer. Lives on a sailboat, former Navy sailor.
