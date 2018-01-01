@@ -1,10 +1,13 @@
 +++
 author = "Matthew Walter"
 categories = []
+date = {{ .Date }}
 description = ""
-linktitle = ""
+draft = true
 featured = ""
-featuredpath = ""
 featuredalt = ""
+featuredpath = ""
+linktitle = ""
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
 type = "post"
 +++
